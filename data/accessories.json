@@ -1,0 +1,33 @@
+{
+    "categoryName": "Accessories",
+    "items": [
+        {
+            "id": 1,
+            "name": "Wireless Mouse",
+            "shortname": "Mouse",
+            "description": "Comfortable wireless mouse for work.",
+            "price": "$25"
+        },
+        {
+            "id": 2,
+            "name": "Mechanical Keyboard",
+            "shortname": "Keyboard",
+            "description": "Keyboard with mechanical switches.",
+            "price": "$80"
+        },
+        {
+            "id": 3,
+            "name": "USB-C Hub",
+            "shortname": "Hub",
+            "description": "Adapter with multiple useful ports.",
+            "price": "$45"
+        },
+        {
+            "id": 4,
+            "name": "Headphones",
+            "shortname": "Audio",
+            "description": "Wireless headphones with clear sound.",
+            "price": "$120"
+        }
+    ]
+}
