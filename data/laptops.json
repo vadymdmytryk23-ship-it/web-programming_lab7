@@ -1,0 +1,33 @@
+{
+    "categoryName": "Laptops",
+    "items": [
+        {
+            "id": 1,
+            "name": "MacBook Air",
+            "shortname": "MacBook",
+            "description": "Lightweight laptop for study and work.",
+            "price": "$999"
+        },
+        {
+            "id": 2,
+            "name": "Lenovo ThinkPad",
+            "shortname": "ThinkPad",
+            "description": "Business laptop with reliable keyboard.",
+            "price": "$850"
+        },
+        {
+            "id": 3,
+            "name": "Asus ROG",
+            "shortname": "ROG",
+            "description": "Gaming laptop with powerful graphics card.",
+            "price": "$1400"
+        },
+        {
+            "id": 4,
+            "name": "HP Pavilion",
+            "shortname": "Pavilion",
+            "description": "Universal laptop for daily tasks.",
+            "price": "$700"
+        }
+    ]
+}
