@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptops",
+        "shortname": "laptops",
+        "notes": "Modern laptops for work, study and gaming."
+    },
+    {
+        "id": 2,
+        "name": "Phones",
+        "shortname": "phones",
+        "notes": "Smartphones for everyday use."
+    },
+    {
+        "id": 3,
+        "name": "Accessories",
+        "shortname": "accessories",
+        "notes": "Useful accessories for your devices."
+    }
+]
